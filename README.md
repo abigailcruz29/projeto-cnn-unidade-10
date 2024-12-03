@@ -42,4 +42,4 @@ Desenvolver uma abordagem de aprendizado profundo para classificação de imagen
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/abigailcruz29/projeto-cnn-unidade-10.git
